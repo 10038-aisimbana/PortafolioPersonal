@@ -1,0 +1,38 @@
+
+@media screen and (min-width: 1025px) {
+  .mdl-layout__drawer-button {
+    display: none;
+  }
+}
+
+.personal-info {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.personal-info__photo {
+  width: 150px;
+  height: auto;
+  float: left; 
+  margin-right: 20px;
+}
+
+.mascota {
+  display: inline-block;
+  text-align: center; 
+}
+
+.mascota__photo {
+  width: 100px; 
+  height: auto;
+  margin-right: 10px; 
+}
+
+.formulario {
+  text-align: left;
+}
+
+.formulario form {
+  display: inline-block;
+  text-align: center; 
+}
